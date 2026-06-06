@@ -1,5 +1,7 @@
 # Index
 
+> Using [nb](https://github.com/xwmx/nb) for CLI workflow and notebook structure
+
 ## Homelab
 
 - **OS**: *Ubuntu Server*
