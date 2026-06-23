@@ -47,9 +47,9 @@ cp _templates/incident.md incidents/2026-06-ssh-lockout.md
 
 ## The Mental Model
 
-- /architecture -> what exists
-- /runbooks -> how to operate it
-- /decisions -> why it's this way
-- /incidents -> what broke
-- /troubleshooting -> how it was diagnosed
-- /retrospectives -> synthesis over time
+- `/architecture` -> what exists
+- `/runbooks` -> how to operate it
+- `/decisions` -> why it's this way
+- `/incidents` -> what broke
+- `/troubleshooting` -> how it was diagnosed
+- `/retrospectives` -> synthesis over time
