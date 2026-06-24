@@ -1,7 +1,14 @@
 # Incident: <title>
 
 Date:
+
 Severity:
+
+Detected:
+
+Resolved:
+
+Duration:
 
 ## Summary
 
