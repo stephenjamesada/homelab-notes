@@ -2,7 +2,7 @@
 
 Date:
 
-Severity:
+Severity: (P1-P4)
 
 Detected:
 

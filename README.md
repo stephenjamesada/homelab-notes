@@ -78,3 +78,11 @@ cp _templates/incident.md incidents/2026-06-ssh-lockout.md
 └── troubleshooting
 ```
 
+---
+
+## Severity Levels
+
+- P1: Critical
+- P2: Major
+- P3: Minor
+- P4: Cosmetic / Informational
