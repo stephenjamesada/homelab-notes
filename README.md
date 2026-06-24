@@ -53,3 +53,28 @@ cp _templates/incident.md incidents/2026-06-ssh-lockout.md
 - `/incidents` -> what broke
 - `/troubleshooting` -> how it was diagnosed
 - `/retrospectives` -> synthesis over time
+
+---
+
+## Directory Structure
+
+```
+.
+├── architecture
+├── CHANGELOG.md
+├── decisions
+├── glossary.md
+├── incidents
+├── README.md
+├── retrospectives
+├── runbooks
+├── _templates
+│   ├── adr.md
+│   ├── architecture.md
+│   ├── incident.md
+│   ├── retro.md
+│   ├── runbook.md
+│   └── troubleshooting.md
+└── troubleshooting
+```
+8 directories, 9 files
