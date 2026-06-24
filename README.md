@@ -77,4 +77,4 @@ cp _templates/incident.md incidents/2026-06-ssh-lockout.md
 │   └── troubleshooting.md
 └── troubleshooting
 ```
-8 directories, 9 files
+
